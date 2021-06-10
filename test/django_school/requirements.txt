@@ -1,4 +1,4 @@
-Django==2.0.1
+Django==2.2.24
 django-crispy-forms==1.7.0
 django-phone-field==1.8.1
 Pillow==7.2.0
